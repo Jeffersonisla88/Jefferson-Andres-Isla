@@ -1,1 +1,1 @@
-# Se bienvenido te presento el codgio de una aplicacion para registro de comercios 
+### Se bienvenido te presento el codgio de una aplicacion para registro de comercios 
